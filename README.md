@@ -1,1 +1,1 @@
-# web-insights
+# webtech-insights
